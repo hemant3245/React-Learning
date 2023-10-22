@@ -2,4 +2,4 @@
 React-Project
 This file contains the changes of this project.
 <br>
-<h1>Author - Hemant</h1>
+<h1>Author - Hemant Jha</h1>
